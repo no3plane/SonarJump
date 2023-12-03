@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         SonarJump
 // @version      0.1
+// @updateURL    https://raw.githubusercontent.com/no3plane/SonarJump/main/main.js
 // @description  SonarQube跳转VSCode
 // @author       no3plane
 // @match        !!!!!!!!!!!!!<这里填入sonarQube的地址，如：https://test.hello.cn/*>
